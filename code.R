@@ -1,6 +1,3 @@
-### Setting working dictionary ====
-setwd("C:/Sahal/Kush's Webscraping")
-
 ### Calling in required libraries ====
 require(rvest)
 require(tidyverse)
